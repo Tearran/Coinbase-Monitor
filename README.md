@@ -5,7 +5,8 @@ Monitor Coinbase. For any Price Changes of your favorite Crypto!
 
 ## Info:
 
-- Python 2 *as of now*
+- ~Python 2 *as of now*~
+- Python3 compatible
 - Changes include - Notification on Change, send to Slack & or Twitter.
 - **PLEASE DO NOT USE TEXTEDIT OR NOTEPAD TO EDIT CONFIG!!!!!!!**
 - **USE SUBLIME TEXT or ATOM, or any other JSON supported editors** 
